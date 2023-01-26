@@ -2,7 +2,10 @@
 
 ## Intro
 
-in this project the goal is to classify arabic tweets which are people opinions about covid-19 vaccination collected form tweeter, 
+in this project the goal is to classify arabic tweets which are people opinions about covid-19 vaccination collected form tweeter, there are basicly two classes: 
+
+0- against covid-19 vaccine
+1- with covid-19 vaccine
 
 ## Data Set
 The Data set I used in this model is collected from twitter based on people opinion's about covid-19 vaccination in [Arabic],I used different data cleaning methods to our Data then apply the methods that gives the best cleaning result.
