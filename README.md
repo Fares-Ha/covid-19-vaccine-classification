@@ -1,4 +1,4 @@
-# covid-19-vaccine-classification
+# covid-19-vaccine-tweets-classification
 
 ## Intro
 
