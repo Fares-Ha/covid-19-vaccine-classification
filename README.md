@@ -5,6 +5,7 @@
 in this project the goal is to classify arabic tweets which are people opinions about covid-19 vaccination collected form tweeter, there are basicly two classes: 
 
 0- against covid-19 vaccine
+
 1- with covid-19 vaccine
 
 ## Data Set
